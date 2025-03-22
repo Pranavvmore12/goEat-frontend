@@ -1,0 +1,15 @@
+frontend setup
+=> do npm i
+=> npm start
+
+
+backend setup
+
+reset passwrod setup
+provide your email and gmail app password in .env file
+
+stripe payment gatway
+provide your stripe secret key in .env file
+
+=> do npm i
+=> npm start
